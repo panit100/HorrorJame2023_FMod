@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0c2b1026-c537-4309-8172-98c73f22c4c0}">
+		<property name="assetPath">
+			<value>SFX/UI Hover Sound.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.192</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db1d25f4-9c03-4eda-a98c-d75b497908b1}</destination>
+		</relationship>
+	</object>
+</objects>

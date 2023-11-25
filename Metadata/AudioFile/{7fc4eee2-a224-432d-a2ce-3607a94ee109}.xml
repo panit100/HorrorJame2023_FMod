@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7fc4eee2-a224-432d-a2ce-3607a94ee109}">
+		<property name="assetPath">
+			<value>SFX/Chamber.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>176.68799999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db1d25f4-9c03-4eda-a98c-d75b497908b1}</destination>
+		</relationship>
+	</object>
+</objects>
